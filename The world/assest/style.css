@@ -1,0 +1,52 @@
+body{
+    background-image: url("../Earth_from_Space.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 250vh;
+
+
+
+}
+
+
+h1{
+
+
+    background-color: khaki;
+    color: rgb(32, 15, 15);
+    top: 0;
+    position: sticky ;
+
+}
+section{
+    color: rgb(184, 184, 184);
+}
+.byte{
+    font-size: 40px;
+    background-color: khaki;
+    color: rgb(32, 15, 15);
+    top: 0;
+    position: sticky;
+    
+}
+.count{
+    background-color: khaki;
+    color: rgb(32, 15, 15);
+    font-size: 40px;
+    top: 0;
+    position: sticky;
+}
+.den{
+    background-color: khaki;
+    color: rgb(32, 15, 15);
+    font-size: 40px;
+    top: 0;
+    position: sticky;
+}
+.est{
+    background-color: khaki;
+    color: rgb(32, 15, 15);
+    font-size: 40px;
+    top: 0;
+    position: sticky;
+}
